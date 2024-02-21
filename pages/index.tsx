@@ -16,10 +16,10 @@ export default function Home() {
       <main className={styles.main}>
         {/* <div className={styles.aboutMeContainer}> */}
           <h1 className={styles.title}>
-            <span className={styles.wave}>👋</span> I&apos;m Ben
+            <span className={styles.wave}>👋</span> I&apos;m Ben, a Web Developer
           </h1>
           <p className={styles.aboutMe}>
-          I am a Chattanooga-based web developer with a passion for creating things. I take great personal pride in building beautiful, functional, and high-performing web applications. I work with React, Node, Express, Postgres and other technologies built with Javascript and Ruby.
+          I am a Chattanooga-based software engineer with a passion for creating things. I take great personal pride in building beautiful, functional, and high-performing web applications. I primarily work with React, Node, Express, Postgres and other technologies built with Javascript and Ruby.
           </p>
         {/* </div> */}
         {/* <div className={styles.photoContainer}>
