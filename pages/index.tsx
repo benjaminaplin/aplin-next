@@ -38,6 +38,11 @@ export default function Home() {
         <a href='https://github.com/benjaminaplin'>
           <FaGithub size='64'/>
         </a>
+        <div className={styles.contact}>
+          <p>Ben Aplin</p>
+          <p>benjaminaplin@gmail.com</p>
+          <p>917 750 6949</p>
+        </div>
       </footer>
     </div>
   )
