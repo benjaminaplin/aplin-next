@@ -16,7 +16,7 @@ export default function Home() {
       <main className={styles.main}>
         {/* <div className={styles.aboutMeContainer}> */}
           <h1 className={styles.title}>
-            <span className={styles.wave}>👋</span> I&apos;m Ben, a Web Developer
+            <span className={styles.wave}>👋</span> I&apos;m Ben, a Web Developer 
           </h1>
           <p className={styles.aboutMe}>
           I am a Chattanooga-based software engineer with a passion for creating things. I take great personal pride in building beautiful, functional, and high-performing web applications. I primarily work with React, Node, Express, Postgres and other technologies built with Javascript and Ruby.

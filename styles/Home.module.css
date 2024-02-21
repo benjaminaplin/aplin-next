@@ -12,7 +12,14 @@
 }
 
 .contact {
-  line-height: 0.5;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-grow: 1;
+  flex-direction: column;
+  text-align: left;
+  align-items: flex-end;
+  max-width: 250px;
 }
 
 .footer {
@@ -22,6 +29,7 @@
   border-top: 1px solid #eaeaea;
   justify-content: center;
   align-items: center;
+  line-height: 0;
 }
 
 .footer a {
