@@ -1,0 +1,8 @@
+.headerContainer {
+  display: flex;
+  justify-content: flex-start;
+}
+
+.headerItem {
+  margin: 1rem;
+}

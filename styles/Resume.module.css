@@ -1,0 +1,17 @@
+.header {
+  font-weight: bold;
+}
+
+.keySkills {
+  width: 100vw;
+}
+
+.main {
+  text-align: left;
+  padding: 1rem;
+}
+
+.companyHeader {
+  display: flex;
+  justify-content: space-between;
+}
